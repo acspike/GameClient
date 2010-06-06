@@ -1,0 +1,4 @@
+This is a simple class, GameClient, for playing turn based games over Google Talk (XMPP).
+Two examples are included: 
+ - gtalktoe.py: play tictactoe over XMPP
+ - midigate.py: send and receive midi messages over XMPP
